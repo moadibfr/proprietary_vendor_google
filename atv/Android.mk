@@ -1,7 +1,5 @@
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),bueller)
-
 include $(CLEAR_VARS)
 LOCAL_MODULE := AndroidMediaShell
 LOCAL_PRIVILEGED_MODULE := true
@@ -320,5 +318,3 @@ LOCAL_PREBUILT_JNI_LIBS := lib/libm2ts_player.so
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_OVERRIDES_PACKAGES :=
 include $(BUILD_PREBUILT)
-
-endif
