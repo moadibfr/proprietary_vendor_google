@@ -11,7 +11,7 @@ GoogleContactsSyncAdapter:false:PRESIGNED::
 GoogleServicesFramework:true:PRESIGNED::
 LandscapeWallpaper:false:PRESIGNED::
 LeanbackIme:false:PRESIGNED::
-LeanbackLauncher:true:PRESIGNED::Trebuchet
+LeanbackLauncher:true:PRESIGNED::Launcher2
 Music2Pano:false:PRESIGNED::
 NoTouchAuthDelegate:false:PRESIGNED::
 Overscan:true:PRESIGNED::

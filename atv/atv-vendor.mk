@@ -1,7 +1,5 @@
 PRODUCT_PACKAGES += \
-    AndroidMediaShell \
     AtvCustomization \
-    AtvRemoteService \
     Backdrop \
     CanvasCloudServices \
     CanvasPackageInstaller \
@@ -34,4 +32,3 @@ PRODUCT_COPY_FILES += \
     vendor/google/atv/misc/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar: \
     vendor/google/atv/misc/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
     vendor/google/atv/misc/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml
-
