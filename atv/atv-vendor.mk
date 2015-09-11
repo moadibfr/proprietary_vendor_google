@@ -26,7 +26,8 @@ PRODUCT_PACKAGES += \
     TvVoiceInput \
     VideosPano \
     YouTubeLeanback \
-		Youtube
+		Youtube \
+		GoogleApp
 
 PRODUCT_COPY_FILES += \
     vendor/google/atv/misc/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar \
